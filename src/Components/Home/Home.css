@@ -1,0 +1,26 @@
+.Home {
+  color: #c06905;
+  height: 600;
+text-align: center;
+text-justify: initial;
+  font: caption;
+  font-size: 3rem;
+  font-display: flex;
+  background-size: cover;
+}
+.card{
+    margin: 3rem;
+    margin-left: 20rem;
+    width: 60%;
+    justify-content: space-between;
+    overflow: hidden;
+    text-align: center;
+    float: left;
+    align-items: flex-end;
+}
+.Hello{
+    padding: 8rem;
+    font-family: cursive;
+
+}
+

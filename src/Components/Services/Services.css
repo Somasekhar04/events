@@ -1,0 +1,34 @@
+.card-1{
+    margin: 3rem;
+    margin-left: 7rem;
+    box-shadow: 0px 2px 20px;
+    border-radius: 5px;
+    width: 30%;
+    justify-content: space-between;
+    overflow: hidden;
+    text-align: center;
+    float: left;
+    align-items: flex-end;
+    background-color: #C6A969;
+    text-decoration-color: white ;
+    font-size: 16px;
+}
+.card-2{
+    margin: 3rem;
+    margin-left: 2rem;
+    margin-right: 9rem;
+    box-shadow: 0px 2px 20px;
+    border-radius: 5px;
+    width: 70%;
+    overflow: hidden;
+    text-align: center;
+    justify-content: space-between;
+    align-items: flex-end;
+    float: left;
+    background-size: cover;
+}
+.buts{
+    color: white;
+    background-color: #C6A969;
+    border-color: white;
+}

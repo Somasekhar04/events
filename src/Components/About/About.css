@@ -1,0 +1,19 @@
+.reviewscard{
+    margin: 3rem;
+    margin-left: 12rem;
+    margin-right: 10rem;
+    width: 70%;
+    height: 400px;
+    text-align: center;
+    justify-content: space-between;
+}
+.reviews{
+    font-style: italic;
+    padding: 5rem;
+    margin: 2rem;
+    font-size: 25px;
+    overflow: hidden;
+    text-align: center;
+    justify-content: space-between;
+
+}
